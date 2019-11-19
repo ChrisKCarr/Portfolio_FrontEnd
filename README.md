@@ -1,6 +1,6 @@
-# Country-Flag-Trivia
+# Personal Portfolio
 
-A simple flag trivia game where 1 or multiple players can test themselves to see how many country flags they know. A custom amount of turns can be set (between 3 to 100). The game was created using HTML, CSS, and JavaScript.
+Portfolio site with a login feature - to be used by me only - where I can keep track and display my resume, projects, and skills I have accumulated. 
 
 ![Game Overview](https://github.com/ChrisKCarr/Country-Flag-Trivia/blob/master/Images/Game%20Overview.png)
 
