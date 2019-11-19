@@ -126,7 +126,7 @@ class Index extends React.Component {
                 />
 
                 <div className="hero-welcome-bio">
-                  <h2>Let's take a look on my work.</h2>
+                  <h2>Let's take a look at my work.</h2>
                 </div>
               </Col>
             </Row>
