@@ -2,7 +2,7 @@
 
 Portfolio site with a login feature - to be used by me only - where I can keep track and display my resume, projects, and skills I have accumulated. 
 
-![Game Overview](https://github.com/ChrisKCarr/Country-Flag-Trivia/blob/master/Images/Game%20Overview.png)
+![Portfolio Overview](https://github.com/ChrisKCarr/Portfolio_FrontEnd/blob/master/images/Portfolio_HomePage.png)
 
 
 ## Built With
