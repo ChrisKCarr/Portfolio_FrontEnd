@@ -51,9 +51,9 @@
 2. Desribe this model with:
  userId: String
  title: String,
- company: String,
- location: String,
- position: String,
+ languages: String,
+ link: String,
+ plans: String,
  description: String,
  startDate: Date
  endDate: Date
@@ -87,8 +87,8 @@
    and return fetched portfolios.
 3. Refactor our page to work with portfolios
 4. Display these data in render function:
-  - portfolio-card-header: {portfolio.position}
-  - portfolio-card-city: {portfolio.location}
+  - portfolio-card-header: {portfolio.plans}
+  - portfolio-card-city: {portfolio.link}
   - portfolio-card-title: {portfolio.title}
   - portfolio-card-text: {portfolio.description}
 5. Good luck and have fun (:

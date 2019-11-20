@@ -13,11 +13,11 @@ class PortfolioCardDetail extends React.Component {
           <ModalBody>
             <p>
               <b>Languages: </b>
-              {portfolio.company}
+              {portfolio.languages}
             </p>
             <p>
               <b>Link: </b>
-              {portfolio.location}
+              {portfolio.link}
             </p>
             <p>
               <b>Description: </b>
@@ -25,7 +25,7 @@ class PortfolioCardDetail extends React.Component {
             </p>
             <p>
               <b>Future Plans: </b>
-              {portfolio.position}
+              {portfolio.plans}
             </p>
             {/* <p><b>Started On: </b>{moment(portfolio.startDate).format('MMMM YYYY')}</p>
             <p><b>Finished On: </b>{portfolio.endDate ? moment(portfolio.endDate).format('MMMM YYYY') : 'Still Working'}</p> */}

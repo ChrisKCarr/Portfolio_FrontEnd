@@ -4,8 +4,8 @@
       <Card className="portfolio-card">
         <CardHeader className="portfolio-card-header">Some Position {index}</CardHeader>
         <CardBody>
-          <p className="portfolio-card-city"> Some Location {index} </p>
-          <CardTitle className="portfolio-card-title">Some Company {index}</CardTitle>
+          <p className="portfolio-card-city"> Some link {index} </p>
+          <CardTitle className="portfolio-card-title">Some languages {index}</CardTitle>
           <CardText className="portfolio-card-text">Some Description {index}</CardText>
           <div className="readMore"> </div>
         </CardBody>

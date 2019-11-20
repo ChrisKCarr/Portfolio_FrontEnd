@@ -37,13 +37,13 @@ const PortfolioCreateForm = ({ initialValues, onSubmit, error }) => (
           <Field type="text" name="title" label="Title" component={PortInput} />
           <Field
             type="text"
-            name="company"
+            name="languages"
             label="Languages"
             component={PortInput}
           />
           <Field
             type="text"
-            name="location"
+            name="link"
             label="Git Link"
             component={PortInput}
           />
@@ -55,7 +55,7 @@ const PortfolioCreateForm = ({ initialValues, onSubmit, error }) => (
           />
           <Field
             type="textarea"
-            name="position"
+            name="plans"
             label="Future Plans"
             component={PortInput}
           />

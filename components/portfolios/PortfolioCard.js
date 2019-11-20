@@ -46,7 +46,7 @@ export default class PortfolioCard extends React.Component {
                 style={{ width: "100%", height: "300px" }}
                 src= {portfolio.image}
               ></iframe> */}
-            {/* <p className="portfolio-card-city">{portfolio.company}</p>
+            {/* <p className="portfolio-card-city">{portfolio.languages}</p>
             <CardTitle className="portfolio-card-title">{portfolio.title}</CardTitle> */}
             <CardText className="portfolio-card-text">
               {portfolio.description}
