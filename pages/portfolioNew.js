@@ -13,9 +13,9 @@ import moment from "moment";
 
 const INITIAL_VALUES = {
   title: "",
-  lang: "",
-  link: "",
-  plans: "",
+  company: "",
+  location: "",
+  position: "",
   description: "",
   image: ""
   // startDate: moment(),
