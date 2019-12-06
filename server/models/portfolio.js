@@ -12,7 +12,7 @@ const portfolioSchema = new Schema({
   title: setStringType(256),
   languages: setStringType(256),
   link: setStringType(128),
-  plans: setStringType(256),
+  plans: setStringType(640),
   description: setStringType(2048)
 
   // startDate: { type: Date, required: true },
