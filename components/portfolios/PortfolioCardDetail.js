@@ -17,7 +17,7 @@ class PortfolioCardDetail extends React.Component {
             </p>
             <p>
               <b>Link: </b>
-              {portfolio.link}
+              <a href={portfolio.link}>{portfolio.link}</a>
             </p>
             <p>
               <b>Description: </b>
