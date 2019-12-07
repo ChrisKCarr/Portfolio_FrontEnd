@@ -115,11 +115,11 @@ export default class Header extends React.Component {
       );
     }
 
-    return (
-      <NavItem className="port-navbar-item">
-        <BsNavLink route="/blogs" title="Blog" />
-      </NavItem>
-    );
+    // return (
+    //   <NavItem className="port-navbar-item">
+    //     <BsNavLink route="/blogs" title="Blog" />
+    //   </NavItem>
+    // );
   }
 
   render() {
